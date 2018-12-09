@@ -1,0 +1,20 @@
+{
+    "name": "andrewnclark/async-image-download",
+    "require": {
+        "php": "7.2",
+        "clue/buzz-react": "^2.5",
+        "league/csv": "^9.1",
+        "react/filesystem": "^0.1.2"
+    },
+    "authors": [
+        {
+            "name": "Andrew Clark",
+            "email": "andrew.clark@techquity.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Grab\\" : "src/"
+        }
+    }
+}
